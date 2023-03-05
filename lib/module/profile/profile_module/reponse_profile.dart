@@ -1,0 +1,80 @@
+class Profileresponse {
+  String? rESPONSECODE;
+  String? sUPERMERCHANTBUSINESSNAME;
+  String? bUSINESSNAME;
+  String? mERCHANTBUSINESSNAME;
+  String? lOGO;
+  String? dEFAULTLANGUAGE;
+  String? cUSTMOBILE;
+  String? iNDUSTRYCATEGORY;
+  String? tRANSACTIONEMAILID;
+  String? uSERTYPE;
+  String? rESPONSEMESSAGE;
+  String? rESELLERBUSINESSNAME;
+  String? tRANSACTIONMOBILE;
+  String? cUSTEMAIL;
+  String? aCTIVATIONDATE;
+  String? rEGISTRATIONDATE;
+  String? sUBMERCHANTBUSINESSNAME;
+
+  Profileresponse(
+      {this.rESPONSECODE,
+      this.sUPERMERCHANTBUSINESSNAME,
+      this.bUSINESSNAME,
+      this.mERCHANTBUSINESSNAME,
+      this.lOGO,
+      this.dEFAULTLANGUAGE,
+      this.cUSTMOBILE,
+      this.iNDUSTRYCATEGORY,
+      this.tRANSACTIONEMAILID,
+      this.uSERTYPE,
+      this.rESPONSEMESSAGE,
+      this.rESELLERBUSINESSNAME,
+      this.tRANSACTIONMOBILE,
+      this.cUSTEMAIL,
+      this.aCTIVATIONDATE,
+      this.rEGISTRATIONDATE,
+      this.sUBMERCHANTBUSINESSNAME});
+
+  Profileresponse.fromJson(Map<String, dynamic> json) {
+    rESPONSECODE = json['RESPONSE_CODE'];
+    sUPERMERCHANTBUSINESSNAME = json['SUPERMERCHANT_BUSINESS_NAME'];
+    bUSINESSNAME = json['BUSINESS_NAME'];
+    mERCHANTBUSINESSNAME = json['MERCHANT_BUSINESS_NAME'];
+    lOGO = json['LOGO'];
+    dEFAULTLANGUAGE = json['DEFAULT_LANGUAGE'];
+    cUSTMOBILE = json['CUST_MOBILE'];
+    iNDUSTRYCATEGORY = json['INDUSTRY_CATEGORY'];
+    tRANSACTIONEMAILID = json['TRANSACTION_EMAIL_ID'];
+    uSERTYPE = json['USER_TYPE'];
+    rESPONSEMESSAGE = json['RESPONSE_MESSAGE'];
+    rESELLERBUSINESSNAME = json['RESELLER_BUSINESS_NAME'];
+    tRANSACTIONMOBILE = json['TRANSACTION_MOBILE'];
+    cUSTEMAIL = json['CUST_EMAIL'];
+    aCTIVATIONDATE = json['ACTIVATION_DATE'];
+    rEGISTRATIONDATE = json['REGISTRATION_DATE'];
+    sUBMERCHANTBUSINESSNAME = json['SUBMERCHANT_BUSINESS_NAME'];
+  }
+
+  Map<String, dynamic> toJson() {
+    final Map<String, dynamic> data = new Map<String, dynamic>();
+    data['RESPONSE_CODE'] = this.rESPONSECODE;
+    data['SUPERMERCHANT_BUSINESS_NAME'] = this.sUPERMERCHANTBUSINESSNAME;
+    data['BUSINESS_NAME'] = this.bUSINESSNAME;
+    data['MERCHANT_BUSINESS_NAME'] = this.mERCHANTBUSINESSNAME;
+    data['LOGO'] = this.lOGO;
+    data['DEFAULT_LANGUAGE'] = this.dEFAULTLANGUAGE;
+    data['CUST_MOBILE'] = this.cUSTMOBILE;
+    data['INDUSTRY_CATEGORY'] = this.iNDUSTRYCATEGORY;
+    data['TRANSACTION_EMAIL_ID'] = this.tRANSACTIONEMAILID;
+    data['USER_TYPE'] = this.uSERTYPE;
+    data['RESPONSE_MESSAGE'] = this.rESPONSEMESSAGE;
+    data['RESELLER_BUSINESS_NAME'] = this.rESELLERBUSINESSNAME;
+    data['TRANSACTION_MOBILE'] = this.tRANSACTIONMOBILE;
+    data['CUST_EMAIL'] = this.cUSTEMAIL;
+    data['ACTIVATION_DATE'] = this.aCTIVATIONDATE;
+    data['REGISTRATION_DATE'] = this.rEGISTRATIONDATE;
+    data['SUBMERCHANT_BUSINESS_NAME'] = this.sUBMERCHANTBUSINESSNAME;
+    return data;
+  }
+}
