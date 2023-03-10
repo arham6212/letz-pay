@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/path_provider_foundation-Swift.h</key>
 		<data>
-		ESC6/VWNcLBGpPpaY7ZUyIhnpbA=
+		++szpDRSg11E4V6z+4WUrkUVPOY=
 		</data>
 		<key>Headers/path_provider_foundation-umbrella.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		s/g7uMbN4uX8hGZM+JD209TA0Bs=
+		uiAeT30LjoRB3Yf3cnsAwM6Hzwk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/path_provider_foundation.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		MWNrrdVqyQ3uoQ+DMtvTNw3Owsc=
+		O6x2n3Rt9zeAZNHYkDhiqs3X80w=
 		</data>
 		<key>Modules/path_provider_foundation.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/path_provider_foundation.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		etYbRB1WtlFjXu6v26LeHAK630Q=
+		ANVQ9ErxCeDGh31iYo1ed4bDQAE=
 		</data>
 		<key>Modules/path_provider_foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3Lk+SMOh7+DGc13HxGwF+0SzIKA=
+		wuBSLad73Etz7gl+ngXR2izMusM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -43,7 +43,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9DDLNhhC6VAj3cUM10KQzb62IG8ofD22IwLIRlzX+4o=
+			2e+HakPf8rPmqu2iwJjTb729mkwWABW/HqPO0EiHAKw=
 			</data>
 		</dict>
 		<key>Headers/path_provider_foundation-umbrella.h</key>
@@ -64,7 +64,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cUV6i302ENO3g/zl1b+3epOKfvDcrVHdSV3lajl7mys=
+			HYVKV/5fnQBD19qodiG9Oo/MGwXwFa3x2bHiQBTwo+o=
 			</data>
 		</dict>
 		<key>Modules/path_provider_foundation.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rqy5eBGi0MV0zF1P7sL5Df+Z7wiSR8+askME2MFgiPk=
+			mL2IBcraqLbtXloM5aSl2qvKWbmmt+FiNhYrxQvYg1w=
 			</data>
 		</dict>
 		<key>Modules/path_provider_foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bSkABu0LabK6Vuy5SuZTkIWze+4BxWHDmxXayy6/jqk=
+			IrPnPGvC9MEMS2wtgn//a7NTxeE9RSaKQ1vbxf1IpVA=
 			</data>
 		</dict>
 	</dict>

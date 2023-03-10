@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/open_mail_app-Swift.h</key>
 		<data>
-		tiM/rjkRZnGGTNJu8jARytYe1E4=
+		Gu/Tn3pw0DQOl8DWL6HNTji9z24=
 		</data>
 		<key>Headers/open_mail_app-umbrella.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nrhv1DHTP0yAJU4OqGD561nsz/4=
+		BBjRke0VXjvR6F3GsgPvYbhVaCY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/open_mail_app.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		quuScap1pTNka2glQVzUHO8JbRY=
+		ikiIy8Xf6nqD0wej+GAU5tFxeMU=
 		</data>
 		<key>Modules/open_mail_app.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/open_mail_app.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		sNNGeMqSRJHeMLYI28EhlSzibtE=
+		OiuGlCyG0mrjD7LMLXFe4lCYb+k=
 		</data>
 		<key>Modules/open_mail_app.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		qDYALpHyZAMLViFDMK0q0IC8bQs=
+		mbYyHDmzt3kC8AYR1eaJa6HzG1w=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -54,7 +54,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EgaH4L3+DeeXaIUC53EmDmIgNKFyTHAKYsgloN55DCo=
+			35CXcuDqYh5eCIyby2l0/yuCcbuJUt2ENTll5QkhkaE=
 			</data>
 		</dict>
 		<key>Headers/open_mail_app-umbrella.h</key>
@@ -75,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l17lMkbOGRLvcP6GcNHshnHQwy1/JiqgIAAwVuNmwFI=
+			i+Bg4tTfTi313NjpSvOAVLVq6bzMf8MC8yrLHpyrWV8=
 			</data>
 		</dict>
 		<key>Modules/open_mail_app.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -89,14 +89,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TSiHq66HY7SdSEEoYPyiA21o0ywdnUieZStxiV2EtFw=
+			X1qn8O37V1ZVKQM/gq3WRlPdhh7a6J0wWjPXBAXbpF4=
 			</data>
 		</dict>
 		<key>Modules/open_mail_app.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G4KOYT8Mo+PqIWxQCApnYez2E5uIeR1fI76K+MmJfPc=
+			7+CbNKpm0T7tl6MG99ewqY8fm6Z+v6qVrbdk66Xg7es=
 			</data>
 		</dict>
 	</dict>

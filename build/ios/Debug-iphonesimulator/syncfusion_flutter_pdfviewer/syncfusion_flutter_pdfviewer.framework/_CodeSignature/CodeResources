@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/syncfusion_flutter_pdfviewer-Swift.h</key>
 		<data>
-		BZqw8aFdU7lmfebLl0w1RvbI5pE=
+		ZTWxstYd6Jq9H3pVn2B0/BJy84k=
 		</data>
 		<key>Headers/syncfusion_flutter_pdfviewer-umbrella.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		S7bG7+LfxH4gEkyB3vYJHrzXOng=
+		GU9eqo6Sc86UlkiUrDz8KBT9zEo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/syncfusion_flutter_pdfviewer.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		nP9HfYxcyhJ1Mt3bTlPOEnSZ2Pw=
+		WKuQwcfFehue8eUpkQchSXaR3hw=
 		</data>
 		<key>Modules/syncfusion_flutter_pdfviewer.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/syncfusion_flutter_pdfviewer.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		IGbKgkId0Mbj46r4Yz5XtY/ez+k=
+		siYicx+ZlnNj44dY76ZSH1LWLHw=
 		</data>
 		<key>Modules/syncfusion_flutter_pdfviewer.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		CwK6j9QyUUh6WQNz5EYd9OzBx54=
+		BunewEV3AzLYAgnlhb3FcheVzw8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -54,7 +54,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uB2c6fzw+dUyD99VkhtXUQagrY9c5p7cq8oOAbncRlA=
+			Arw5TLIO9D5Y3Taq1NQjX7WIVuvhQZynsNg2jDax2zs=
 			</data>
 		</dict>
 		<key>Headers/syncfusion_flutter_pdfviewer-umbrella.h</key>
@@ -75,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S4iz4wbeH92kq6pMTWD6HvXMvW6K/TMKo0o8xxLa+pw=
+			xh+sITWckPn52Hp3JpPcN1Vzi3AuZ3lf30ij3fobVj0=
 			</data>
 		</dict>
 		<key>Modules/syncfusion_flutter_pdfviewer.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -89,14 +89,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vF+KoOV/ekQSOkKiZH68mWupQ99epC1I3FaRWjBYUUc=
+			ZU86IdsndtlwF5YY9A+qKEDQWkVnlT9359viovI7f0w=
 			</data>
 		</dict>
 		<key>Modules/syncfusion_flutter_pdfviewer.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wtpsijoJHUF1ssuVAdLwISO6ayCNnnRTUnxa/8wAQH0=
+			t3CHp3YIm1b6vj5RHZWhPZNn43OMrKpQCU/MUvpIFX0=
 			</data>
 		</dict>
 	</dict>

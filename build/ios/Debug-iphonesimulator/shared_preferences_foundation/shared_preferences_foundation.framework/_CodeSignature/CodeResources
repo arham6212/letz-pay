@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/shared_preferences_foundation-Swift.h</key>
 		<data>
-		jVqvA3ZqC0MCcSAkCXHMmjYXFxs=
+		pT1uPGH2ktbJ6ATxV+wnp2HG0Eg=
 		</data>
 		<key>Headers/shared_preferences_foundation-umbrella.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		mcLQdLIJgEUljRqQaFcn/AoO1UQ=
+		YAelj4LUMhtU1eFJEVn9mRsS6CQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/shared_preferences_foundation.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		+83DcVZs/SQe1+PtfcaepGCtXrU=
+		QpzS1yVaS8TtT2+3O2+ClFoq3Ms=
 		</data>
 		<key>Modules/shared_preferences_foundation.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/shared_preferences_foundation.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		33FsE37xwlfnuEz2/FMAKdSQnqQ=
+		jdWIPg/q6hIbsuepRwga3iVtrtA=
 		</data>
 		<key>Modules/shared_preferences_foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		M/KbJy3yc51dK3Zx523SPMq1r0Y=
+		ehb4Oh47P3NUpqV7UmsTmjVT9C8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -43,7 +43,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GXQG/kI/NvjmjcgESo6yuI20ocim3ac4kftN6vdbg10=
+			xNA5QAFBpz1GkVhEEmZWpaFfGTMFhVAHtPpkzu+Z/IU=
 			</data>
 		</dict>
 		<key>Headers/shared_preferences_foundation-umbrella.h</key>
@@ -64,7 +64,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/H9wPPxU91hcWJlOD3ebRTHbqSaGXRraFJS3KLGXJF4=
+			inWKusIRs/mFGvyBO9UHW/2d8caEe6dQxJyInCgyAI0=
 			</data>
 		</dict>
 		<key>Modules/shared_preferences_foundation.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vnw09hlQ48Eir7uh7/SnVtXtrfDPrFYQUJodODDgEbQ=
+			HH/WeuX+OPq3qStZiDRDz5nSKQdjMKuX9c3BPHaq5Cw=
 			</data>
 		</dict>
 		<key>Modules/shared_preferences_foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fuUOOi9rOwkcB1vA2i60bGJPTp1f669nlJyMHOLu5G8=
+			TlkkKwHHE1Sdt9j6wRuHAnqvBCLkCswIJj2LZlSDOlY=
 			</data>
 		</dict>
 	</dict>
