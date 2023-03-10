@@ -19,7 +19,6 @@ final dioProvider = Provider((ref) => Dio(
       ),
     ));
 
-
 class Connection {
   final Dio _dio;
 
@@ -30,7 +29,7 @@ class Connection {
     try {
       data = jsonEncode(data).encrypt();
       log(data);
-     var response;
+      var response;
 
       switch (method) {
         case HttpMethod.get:
@@ -48,13 +47,19 @@ class Connection {
       }
 
       if (response.statusCode == 200) {
+        if (response.data['RESPONSE_MESSAGE'].toString().toUpperCase() !=
+            'SUCCESS') {
+          return Result.failure(response.data['RESPONSE_MESSAGE']);
+        }
         return Result.success(response.data as T);
       } else {
-        return Result.failure("API call failed with status code: ${response.statusCode}");
+        return Result.failure(
+            "API call failed with status code: ${response.statusCode}");
       }
     } on DioError catch (e) {
       if (e.response != null) {
-        return Result.failure("API call failed with status code: ${e.response!.statusCode}");
+        return Result.failure(
+            "API call failed with status code: ${e.response!.statusCode}");
       } else {
         return Result.failure("API call failed: ${e.message}");
       }
@@ -74,4 +79,3 @@ class Result<T> {
 
   factory Result.failure(String error) => Result(error: error);
 }
-

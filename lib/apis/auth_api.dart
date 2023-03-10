@@ -1,5 +1,3 @@
-import 'dart:convert';
-import 'dart:math';
 
 import 'package:appwrite/appwrite.dart';
 import 'package:appwrite/models.dart' as model;
@@ -87,10 +85,14 @@ class AuthAPI implements IAuthAPI {
     required String pin,
   }) async {
     try {
-      final session = await _connection.callApi('login', HttpMethod.post,
+      final response = await _connection.callApi('login', HttpMethod.post,
           data: {"MOBILE_NUMBER": mobile, "LOGIN_TYPE": "PIN", "PIN": pin});
-      return right(LoginResponseModel.fromJson(session.data));
+      if(response.error?.isNotEmpty==true){
+        return left(Failure(response.error??""));
+      }
+      return right(LoginResponseModel.fromJson(response.data));
     } catch (e, stackTrace) {
+      print(stackTrace);
       return left(
         Failure(e.toString(), stackTrace),
       );
